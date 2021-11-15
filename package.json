@@ -3,9 +3,9 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/cactusoft-ca"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "cordova": {
-    "id": "ionic-plugin-deeplinks",
+    "id": "@cactusoft-ca/ionic-plugin-deeplinks",
     "platforms": [
       "android",
       "ios"
